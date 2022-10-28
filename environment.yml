@@ -1,0 +1,6 @@
+name: OxOpendata
+dependencies:
+    - root
+    - numpy
+    - uproot
+    - hist
